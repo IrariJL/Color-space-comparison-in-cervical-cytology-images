@@ -1,6 +1,11 @@
 # Color-space-comparison-in-cervical-cytology-images
-A CNN implementation to classify cervical cytology samples in five classes using SIPAKMED dataset. Twelve color space transformations were compared, the individual RGB channels, 6 and combinations of these channels.  The results obtained form this model is presented in the article: Over Color Spaces Comparison of Cytology Samples Classification.
+A CNN implementation to classify cervical cytology samples in five and two classes using SIPAKMED dataset. Six color space transformations were compared, the individual RGB channels, and combinations of these channels. This work compred the results through VGG-16 model. The results obtained is presented in the article: **Over Color Spaces Comparison of Isolated Cervix Cells for Morphology Classification**
 
 If you are going to use this repository, please cite our work:
+*Jiménez-López I., Valdez-Rodríguez J.E. and Moreno-Armendáriz M. A. (2025). Over Color Spaces Comparison of Cytology Samples Classification. (Publish pending).*
 
-Jiménez-López I., Valdez-Rodríguez J.E. and Moreno-Armendáriz M. A. (2025). Over Color Spaces Comparison of Cytology Samples Classification. (Publish pending).
+****************************************************************************
+In this repository you can find the codes to classify the binary and multiclassification tasks.
+  - k_fold_color_space_binary.ipynb
+  - k_fold_color_spaces_5class.ipynb
+  - 
