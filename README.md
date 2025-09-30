@@ -8,4 +8,6 @@ If you are going to use this repository, please cite our work:
 In this repository, you can find the code for both binary and multiclass classification tasks, as well as for preprocessing the Sipakmed database to resize the images and apply zero-padding, obtaining images of size 256×256.
   - k_fold_color_space_binary.ipynb
   - k_fold_color_spaces_5class.ipynb
-  - 
+  - Resize_images.ipynb
+
+Into Binary_matrices and Multiclass folds, there are the confusion matrices for the proposed model and VGG-16 architecture.
