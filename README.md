@@ -5,7 +5,7 @@ If you are going to use this repository, please cite our work:
 *Jiménez-López I., Valdez-Rodríguez J.E. and Moreno-Armendáriz M. A. (2025). Over Color Spaces Comparison of Cytology Samples Classification. (Publish pending).*
 
 ****************************************************************************
-In this repository you can find the codes to classify the binary and multiclassification tasks.
+In this repository, you can find the code for both binary and multiclass classification tasks, as well as for preprocessing the Sipakmed database to resize the images and apply zero-padding, obtaining images of size 256×256.
   - k_fold_color_space_binary.ipynb
   - k_fold_color_spaces_5class.ipynb
   - 
